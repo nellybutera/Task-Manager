@@ -9,7 +9,7 @@ A simple, user-friendly web application to manage tasks with full **CRUD functio
 
 
 
-## Features
+## Features or Apps as they call it in Django😅
 
 - **User Authentication:** Login, logout, and signup functionality.  
 - **Task Management (CRUD):** Create, read, update, and delete tasks.  
