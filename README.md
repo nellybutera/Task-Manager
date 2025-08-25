@@ -91,8 +91,4 @@ python manage.py runserver
 
 This project is for **portfolio/demo purposes**. No license is applied.
 
-```
-
----
-
 
