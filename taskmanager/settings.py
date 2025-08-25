@@ -48,6 +48,8 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+     'taskmanager.middleware.NoCacheMiddleware', # custom middleware to protect authenticated pages
+
 ]
 
 ROOT_URLCONF = 'taskmanager.urls'
