@@ -3,11 +3,11 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Django](https://img.shields.io/badge/Django-5.2.5-green)
-![License](https://img.shields.io/badge/License-Portfolio-lightgrey)
+
 
 A simple, user-friendly web application to manage tasks with full **CRUD functionality**, user authentication, and a clean interface built with **Django** and **Bootstrap**.
 
----
+
 
 ## Features
 
@@ -19,13 +19,13 @@ A simple, user-friendly web application to manage tasks with full **CRUD functio
 - **Sorting & Filtering:** Sort tasks by due date and filter completed/pending tasks.  
 - **Responsive UI:** Built with Bootstrap for mobile-friendly design.
 
----
+
 
 ## Screenshots
 
 *(Add screenshots or GIFs of your app here to showcase it visually)*
 
----
+
 
 ## Installation
 
@@ -67,7 +67,7 @@ python manage.py runserver
 
 7. Visit `http://127.0.0.1:8000/` in your browser.
 
----
+
 
 ## Tech Stack
 
@@ -76,7 +76,7 @@ python manage.py runserver
 * **Database:** SQLite (default, can switch to PostgreSQL)
 * **Version Control:** Git & GitHub
 
----
+
 
 ## Future Improvements
 
@@ -85,10 +85,10 @@ python manage.py runserver
 * Polish UI with **better styling** and animations.
 * Deploy online to show a **live demo**.
 
----
+
 
 ## License
 
-This project is for **portfolio/demo purposes**. No license is applied.
+MIT License.
 
 
